@@ -1,0 +1,8 @@
+{
+  "name": "API-RESTful-de-Vendas-com-Node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RodrigoErico/API-RESTful-de-Vendas-com-Node.js.git",
+  "author": "RodrigoErico <rodrigoerico25@gmail.com>",
+  "license": "MIT"
+}
